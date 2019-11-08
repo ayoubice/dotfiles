@@ -24,6 +24,7 @@ runtime ruby.vundle
 runtime languages.vundle
 runtime git.vundle
 runtime appearance.vundle
+runtime web.vundle
 runtime textobjects.vundle
 runtime search.vundle
 runtime project.vundle
