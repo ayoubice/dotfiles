@@ -5,3 +5,6 @@ Bundle 'nelstrom/vim-markdown-preview'
 Bundle 'skwp/vim-html-escape'
 Bundle 'jparise/vim-graphql'
 Bundle 'fatih/vim-go'
+
+Bundle 'prabirshrestha/vim-lsp'
+Bundle 'mattn/vim-lsp-settings'
