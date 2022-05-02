@@ -8,3 +8,6 @@ Bundle 'fatih/vim-go'
 
 Bundle 'prabirshrestha/vim-lsp'
 Bundle 'mattn/vim-lsp-settings'
+
+Bundle 'prabirshrestha/asyncomplete.vim'
+Bundle 'prabirshrestha/asyncomplete-lsp.vim'
