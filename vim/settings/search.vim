@@ -19,9 +19,6 @@ vnoremap ,k :<C-U>execute "Ag " . GetVisual()<CR>
 "grep current word up to the next exclamation point using ,K
 nnoremap ,K viwf!:<C-U>execute "Ag " . GetVisual()<CR>
 
-"grep for 'def foo'
-nnoremap <silent> ,gd :Ag 'def <cword>'<CR>
-
 ",gg = Grep! - using Ag the silver searcher
 " open up a grep line, with a quote started for the search
 nnoremap ,gg :Ag ""<left>
