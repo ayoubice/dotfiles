@@ -27,6 +27,6 @@ else
   end
 endif
 
-colorscheme solarized
+colorscheme nord
 set background=dark
 set relativenumber
